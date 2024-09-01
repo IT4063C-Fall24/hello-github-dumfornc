@@ -1,2 +1,2 @@
-# My Name
-Hello class, my name is [type your name], and I am a student at the University of [type the university name].
+# Nicholas Dumford
+Hello class, my name is Nicholas Dumford, and I am a student at the University of University of Cincinnati.
