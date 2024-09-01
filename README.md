@@ -24,20 +24,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- Nothing really, I've done this exact format of Github classroom in a previous class and I just spent the summer working with vs code and git
 
 **I struggled with:** (repeat as needed)
-- .
+- N/A (see I learned)
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- N/A (see I learned)
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- N/A
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- N/A
